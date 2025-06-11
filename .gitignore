@@ -1,2 +1,6 @@
 tmp/todo.txt
+<<<<<<< HEAD
 *.txt
+=======
+tmp/*
+>>>>>>> f7585e8 (fichier tmp)
